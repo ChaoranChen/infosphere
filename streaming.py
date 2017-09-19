@@ -53,5 +53,4 @@ for i in range(len(tweets_data)):
 validData = pd.DataFrame(validData)
 print('Number of my tweets: ',len(tweets_data))
 print('Number of valid tweets: ',count)
-print(\n)
 print(validData)
